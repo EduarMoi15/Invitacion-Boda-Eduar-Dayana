@@ -100,4 +100,5 @@ hacerse públicos. Evita publicar datos reales de los invitados.
 Proyecto personal creado para celebrar la unión de **Eduar & Dayana**,
 con amor, fe y gratitud a Dios.
 
-> "Todo lo puedo en Cristo que me fortalece." --- Filipenses 4:13
+> “De modo que ya no son dos, sino una sola carne. Por tanto,
+  lo que Dios ha unido, que no lo separe el hombre.” --- Mateo 19:6
